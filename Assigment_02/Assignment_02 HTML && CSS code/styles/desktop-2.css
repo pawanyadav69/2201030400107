@@ -1,0 +1,357 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-vgX {
+  width: 100%;
+  height: 475.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #e9ecf3;
+}
+.desktop-2-vgX .upcycled-items-ecX {
+  width: 44rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 48.6rem;
+  top: 0;
+  display: flex;
+  font-size: 6rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ {
+  width: 91.3rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 6.7rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: flex-end;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-huct-SoH {
+  width: 16rem;
+  height: 6.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-huct-SoH .rectangle-1-zpo {
+  width: 16rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: rgba(102, 168, 50, 0.2599999905);
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-huct-SoH .craft-projects-hz7 {
+  width: 13.6rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 0;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.75;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-v3yz-bJo {
+  margin-bottom: 0.2rem;
+  width: 15.1rem;
+  height: 6.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-v3yz-bJo .rectangle-2-LGP {
+  width: 15.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  background-color: rgba(102, 168, 50, 0.2599999905);
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-v3yz-bJo .diy-gifts-eH5 {
+  width: 9rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.75;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP {
+  margin-bottom: 0.2rem;
+  width: 54.2rem;
+  height: 11.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .diy-craft-ideas-thD {
+  width: 44.8rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 0;
+  display: flex;
+  font-size: 6rem;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.2rem;
+  color: #711f2e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .rectangle-3-zVM {
+  width: 14.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 5.4rem;
+  background-color: rgba(102, 168, 50, 0.2599999905);
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .seasonal-jhq {
+  width: 10.3rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 0;
+  top: 5.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.75;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .rectangle-4-FRH {
+  width: 16.8rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 16rem;
+  top: 5.9rem;
+  background-color: rgba(102, 168, 50, 0.2599999905);
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .holiday-crafts-C5d {
+  width: 16.6rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 16rem;
+  top: 5.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.75;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .rectangle-5-tj9 {
+  width: 15.3rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 5.9rem;
+  background-color: rgba(102, 168, 50, 0.2599999905);
+}
+.desktop-2-vgX .auto-group-fhlb-KyZ .auto-group-payv-MSP .about-qPV {
+  width: 6.9rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 5.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 2.75;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-rbtv-X1R {
+  width: 164.7rem;
+  height: 83.2rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 18.7rem;
+  display: flex;
+  align-items: flex-end;
+}
+.desktop-2-vgX .auto-group-rbtv-X1R .auto-group-njo1-EAj {
+  margin: 0rem 3rem 3.3rem 0rem;
+  width: 117rem;
+  height: 79.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .auto-group-rbtv-X1R .auto-group-njo1-EAj .diy-succulent-planter-ideas-1-LUf {
+  width: 117rem;
+  height: 73.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-vgX .auto-group-rbtv-X1R .auto-group-njo1-EAj .here-we-are-making-soda-cans-into-plantating-herbs-g2j {
+  width: 103.1rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 5rem;
+  top: 73.3rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: -0.2rem;
+  color: #3f21f6;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-rbtv-X1R .what-is-upcycle-LNB {
+  margin: 0rem 9.4rem 37.5rem 0rem;
+  max-width: 17.1rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.65;
+  letter-spacing: -0.2rem;
+  color: #3f21f6;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-vgX .auto-group-rbtv-X1R .more-ds5 {
+  display: flex;
+  font-size: 6rem;
+  font-weight: 300;
+  line-height: 1.1;
+  letter-spacing: -0.2rem;
+  color: #711f2e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .remove-labels-from-glass-jars-to-use-as-food-or-craft-storage-NJs {
+  width: 137.2rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 102.3rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 300;
+  line-height: 1.375;
+  letter-spacing: -0.2rem;
+  text-decoration-line: underline;
+  color: #711f2e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-vgX .auto-group-xrmq-qCT {
+  width: 129.7rem;
+  height: 59.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 111.5rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-2-vgX .auto-group-xrmq-qCT .craft-storage-mason-jars-1-y3m {
+  margin-right: 3.4rem;
+  width: 62.3rem;
+  height: 59.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .auto-group-xrmq-qCT .diy-bathroom-storage-jars-1-tgX {
+  width: 64rem;
+  height: 59.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-vgX .jars-can-be-reused-for-so-many-storage-options-food-craft-supplies-beauty-items-etc-learn-how-to-easily-get-those-stubborn-labels-off-and-upcycle-your-jars-q5y {
+  width: 127.9rem;
+  height: 19.8rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 170.9rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 2.0625;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-vgX .self-draining-planter-1-g6b {
+  width: 126.6rem;
+  height: 96.3rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 253.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-vgX .reuse-oatmeal-container-to-organize-your-vanity-oatmeal-containers-are-perfect-for-organizing-lotion-bottles-deodorant-and-brushes-on-your-dresser-or-vanity-a-little-bit-of-rope-and-hot-glue-go-a-long-way-ive-had-these-on-my-dresser-for-years-i-love-them-AnT {
+  width: 132.5rem;
+  height: 39.6rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 350.6rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 2.0625;
+  letter-spacing: -0.2rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-vgX .reuse-oatmeal-container-to-organize-your-vanity-oatmeal-containers-are-perfect-for-organizing-lotion-bottles-deodorant-and-brushes-on-your-dresser-or-vanity-a-little-bit-of-rope-and-hot-glue-go-a-long-way-ive-had-these-on-my-dresser-for-years-i-love-them-AnT .reuse-oatmeal-container-to-organize-your-vanity-oatmeal-containers-are-perfect-for-organizing-lotion-bottles-deodorant-and-brushes-on-your-dresser-or-vanity-a-little-bit-of-rope-and-hot-glue-go-a-long-way-ive-had-these-on-my-dresser-for-years-i-love-them-AnT-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 300;
+  line-height: 1.03125;
+  letter-spacing: -0.2rem;
+  color: #711f2e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-vgX .reuse-oatmeal-container-to-organize-your-vanity-oatmeal-containers-are-perfect-for-organizing-lotion-bottles-deodorant-and-brushes-on-your-dresser-or-vanity-a-little-bit-of-rope-and-hot-glue-go-a-long-way-ive-had-these-on-my-dresser-for-years-i-love-them-AnT .reuse-oatmeal-container-to-organize-your-vanity-oatmeal-containers-are-perfect-for-organizing-lotion-bottles-deodorant-and-brushes-on-your-dresser-or-vanity-a-little-bit-of-rope-and-hot-glue-go-a-long-way-ive-had-these-on-my-dresser-for-years-i-love-them-AnT-sub-1 {
+}
+.desktop-2-vgX .diy-roped-dresser-organizer-from-oatmeal-container-3-1-aNK {
+  width: 112.6rem;
+  height: 67rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 394.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}

@@ -1,0 +1,229 @@
+
+<!document.html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Registration Form</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 10px;
+        padding: 10px;
+        height: 10vh;
+        background-color: #f2f2f2;
+    }
+    
+    .container {
+        position: relative; /* Make the container position relative */
+        height: 500px;
+        width: 900px;
+        margin: 50px auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    text1{
+        position: absolute;
+        top: 100px; /* Adjust as needed */
+        left: 0;
+        right: 0;
+        font-size: 34px;
+        text-align: center;
+    }
+    
+    .rectangle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 50%;
+        height: 100%;
+        background-color: #230ccc;
+        background-size: center;
+        background-position: center;
+        display: flex;
+        justify-content: center; /* Center text horizontally */
+        align-items: center; /* Center text vertically */
+        color: #fff;
+        font-size: 34px;
+        font-weight: bold;
+    }
+
+    .rectangle-text {
+        position: absolute;
+        top: 50px; /* Adjust as needed */
+        left: 0;
+        right: 0;
+       
+        text-align: center; /* Center text horizontally */
+    }
+
+    .rectangle-bottom {
+        position: absolute;
+        bottom: 10px;
+        top: 350px; /* Adjust as needed */
+        left: 30px;
+        right: 70px;
+        font-size: 15px; /* Change font size to 34px */
+        text-align: center;
+        color: #fff;
+    }
+    
+    .content {
+        padding-left: 100px; /* Adjust content padding to accommodate the rectangle */
+    }
+    
+    h2 {
+        margin-right: 30%;
+        text-align: right; /* Align text to the right */
+    }
+    
+    form {
+        margin-top: 20px;
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    
+    label {
+        display: inline-block;
+        width: 70%;
+        margin-bottom: 20px;
+        text-align: right; /* Align labels to the right */
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    input[type="password"] {
+        width: 20%;
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .forgot-password {
+        text-align: right; /* Align "Forgot Password" link to the right */
+        margin-top: -10px; /* Adjust margin to match the input fields */
+    }
+
+    .no-account {
+        text-align: center; /* Align "Don't have an account?" link to the center */
+        margin-top: 20px;
+        margin-left: 400px; /* Add space between the form and the link */
+       
+    }
+    
+    input[type="submit"] {
+        margin-top: 2%;
+        margin-left: 70%;
+        width: 15%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+    .stars {
+            position: absolute;
+            top: 55%;
+            left: -30%;
+            right: 40%;
+            display: flex;
+            font-size: 30px;
+            justify-content: center;
+            align-items: center;
+            color: #c5d913;
+        }
+
+        .star {
+            font-size: 20px;
+            color: #fff;
+            margin: 0 8px;
+        }
+        .text2{
+            position: absolute;
+        bottom: 10px;
+        top: 100px; /* Adjust as needed */
+        left: 30px;
+        right: 70px;
+        font-size: 15px; /* Change font size to 34px */
+        text-align: center;
+        color: #fff;
+        }
+        .text3{
+            position: absolute;
+        bottom: 10px;
+        top: 430px; /* Adjust as needed */
+        left: 30px;
+        right: 70px;
+        font-size: 15px; /* Change font size to 34px */
+        text-align: center;
+        color: #fff;
+        }
+        .text4{
+            position: absolute;
+        bottom: 10px;
+        top: 460px; /* Adjust as needed */
+        left: 30px;
+        right: 70px;
+        font-size: 15px; /* Change font size to 34px */
+        text-align: center;
+        color: #fff;
+        }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <div class="rectangle">
+        <div class="rectangle-text">Reuse the Items</div>
+        <h1 class="text2">Clarity gives you the blocks & components you need to create a truly professional website.</h1>
+        <div class="rectangle-bottom">"We love Landingfolio! Our designers were using it for their projects, so we already knew what kind of design they want."</div> <!-- Text inside the rectangle -->
+        <h2 class="text3">Co-Founder, Design.co:-</h2><br>
+        <h2 class="text4">Pawan Yadav</h2>
+    </div>
+    <div class="stars">
+        <!-- Five white star symbols -->
+        &#9733; &#9733; &#9733; &#9733; &#9733;
+    </div> <!-- Rectangle on the left side -->
+    
+
+    <div class="content">
+        <h2>Join Clarity</h2> <!-- Align "shivam" to the right -->
+        <form>
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <div class="form-group">
+                <label for="confirm_password">Confirm Password:</label>
+                <input type="password" id="confirm_password" name="confirm_password" required>
+            </div>
+            <div class="forgot-password">
+                <a href="#">Forgot Password?</a>
+            </div>
+            <input type="submit" value="Register">
+        </form>
+        <div class="no-account">
+            <p>Don't have an account? <a href="#">Sign up now</a></p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

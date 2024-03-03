@@ -1,0 +1,405 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.signup-kNK {
+  box-sizing: border-box;
+  padding: 0rem 38.767rem 0rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f8fafc;
+}
+.signup-kNK .auto-group-vurm-Neb {
+  margin: 0rem 1.079rem 0.5rem 0rem;
+  width: 60.821rem;
+  height: 101.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .bg-7u1 {
+  width: 60.821rem;
+  height: 101.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf {
+  width: 36.5rem;
+  height: 76.1099rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 13.8rem;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .title-ups {
+  margin-bottom: 25.0146rem;
+  display: flex;
+  flex-direction: column;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .title-ups .reuse-the-items-bxb {
+  margin-bottom: 3.0304rem;
+  max-width: 29.4rem;
+  font-size: 6rem;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.2rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .title-ups .clarity-gives-you-the-blocks-components-you-need-to-create-a-truly-professional-website-eR5 {
+  max-width: 30.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #cbd5e1;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .review-Hiw {
+  margin: 0rem 0rem 3.306rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .review-Hiw .star-1-QYf {
+  margin: 0rem 0.63rem 0rem 0rem;
+  width: 1.8097rem;
+  height: 2.4239rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .review-Hiw .star-2-8jZ {
+  margin-right: 0.6301rem;
+  width: 1.8097rem;
+  height: 2.424rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .review-Hiw .star-3-TWw {
+  margin: 0rem 0.63rem 0rem 0rem;
+  width: 1.8098rem;
+  height: 2.4239rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .review-Hiw .star-4-bd9 {
+  margin: 0rem 0.63rem 0rem 0rem;
+  width: 1.8097rem;
+  height: 2.424rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .review-Hiw .star-5-jUT {
+  margin-top: 0rem;
+  width: 1.8097rem;
+  height: 2.424rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK {
+  width: 100%;
+  height: 20.1353rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK .we-love-landingfolio-our-designers-were-using-it-for-their-projects-so-we-already-knew-what-kind-of-design-they-want-cHM {
+  width: 36.5rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.619047619;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK .user-Tao {
+  box-sizing: border-box;
+  padding-right: 3.696rem;
+  width: 17.2106rem;
+  height: 7.95rem;
+  position: absolute;
+  left: 0.0008rem;
+  top: 12.1853rem;
+  display: flex;
+  align-items: center;
+  border-radius: 15.847rem;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK .user-Tao .bg-Ksu {
+  margin: 0.845rem 1.179rem 0rem 0rem;
+  width: 3.5358rem;
+  height: 4.9573rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 15.847rem;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK .user-Tao .auto-group-pqik-Q8f {
+  width: 8.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK .user-Tao .auto-group-pqik-Q8f .co-founder-designco-ur7 {
+  width: 8.8rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 3.55rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #cbd5e1;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.signup-kNK .auto-group-vurm-Neb .text-content-3nf .quote-Xzf .auto-group-shtb-erK .user-Tao .auto-group-pqik-Q8f .pawan-yadav-Nzb {
+  width: 5.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 1.8076rem;
+  top: 0;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  letter-spacing: -0.02rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.signup-kNK .input-content-G4P {
+  margin-bottom: 6.5825rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .title-DEX {
+  margin-bottom: 1.4918rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .title-DEX .join-clarity-NdD {
+  margin-bottom: 1.8048rem;
+  max-width: 16.3rem;
+  font-size: 5.2rem;
+  font-weight: 600;
+  line-height: 1.1923076923;
+  letter-spacing: -0.2rem;
+  color: #080814;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .title-DEX .clarity-gives-you-the-blocks-and-components-you-need-to-create-a-truly-professional-website-5Gj {
+  margin-left: 1.9158rem;
+  max-width: 35.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #52525b;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM {
+  margin: 0rem 0rem 2.982rem 1.916rem;
+  width: 41.4174rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .email-tEB {
+  margin: 0rem 0.079rem 0.685rem 0rem;
+  width: 41.3388rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .email-tEB .full-name-pdd {
+  margin-bottom: 0.1343rem;
+  max-width: 4.8rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #080814;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.signup-kNK .input-content-G4P .input-mfM .email-tEB .bg-kXH {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  height: 6.6112rem;
+  border: solid 0.1rem #cbd5e1;
+  box-sizing: border-box;
+  background-color: #f8fafc;
+  border-radius: 1.2rem;
+}
+.signup-kNK .input-content-G4P .input-mfM .email-qod {
+  margin: 0rem 0.079rem 0.685rem 0rem;
+  width: 41.3388rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .email-qod .email-address-zRd {
+  margin-bottom: 0.1343rem;
+  max-width: 6.6rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #080814;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.signup-kNK .input-content-G4P .input-mfM .email-qod .bg-7FM {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  height: 6.6112rem;
+  border: solid 0.1rem #cbd5e1;
+  box-sizing: border-box;
+  background-color: #f8fafc;
+  border-radius: 1.2rem;
+}
+.signup-kNK .input-content-G4P .input-mfM .password-dUb {
+  margin: 0rem 0.079rem 3.306rem 0rem;
+  box-sizing: border-box;
+  padding-bottom: 0rem;
+  width: 41.3388rem;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .password-dUb .password-AUX {
+  margin-bottom: 0.1343rem;
+  max-width: 6.1rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #080814;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.signup-kNK .input-content-G4P .input-mfM .password-dUb .bg-uS7 {
+  margin-left: 0rem;
+  width: calc(100% - 0rem);
+  height: 6.6112rem;
+  border: solid 0.1rem #cbd5e1;
+  box-sizing: border-box;
+  background-color: #f8fafc;
+  border-radius: 1.2rem;
+}
+.signup-kNK .input-content-G4P .input-mfM .text-qKm {
+  margin-left: 0rem;
+  box-sizing: border-box;
+  padding-right: 2.2025rem;
+  width: calc(100% - 0rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .text-qKm .check-NKh {
+  margin-right: 21.0624rem;
+  box-sizing: border-box;
+  padding: 0rem 0.052rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .text-qKm .check-NKh .shape-uaX {
+  margin: 0.11rem 0.707rem 0rem 0rem;
+  width: 1.4932rem;
+  height: 2.0935rem;
+  border: solid 0.1rem #94a3b8;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .text-qKm .check-NKh .remember-me-pSb {
+  max-width: 8.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #18181b;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .input-mfM .text-qKm .forgot-password-wXD {
+  max-width: 7.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #2563eb;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .button-primary-with-icon-U1M {
+  margin: 0rem 0rem 1.266rem 1.916rem;
+  box-sizing: border-box;
+  padding: 1.63rem 0rem 1.63rem 3.237rem;
+  width: 15.7373rem;
+  height: 6.0602rem;
+  background-color: #2563eb;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .button-primary-with-icon-U1M .frame-1-jhy {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.75;
+  letter-spacing: -0.02rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.signup-kNK .input-content-G4P .dont-have-an-account-create-free-account-doM {
+  margin-left: 1.9158rem;
+  max-width: 21.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #64748b;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-kNK .input-content-G4P .dont-have-an-account-create-free-account-doM .dont-have-an-account-create-free-account-doM-sub-0 {
+}
+.signup-kNK .input-content-G4P .dont-have-an-account-create-free-account-doM .dont-have-an-account-create-free-account-doM-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.6153846154;
+  color: #2563eb;
+  font-family: Poppins, 'Source Sans Pro';
+}
